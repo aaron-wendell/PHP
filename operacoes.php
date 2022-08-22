@@ -7,3 +7,4 @@ $divisao = 8/2;
 echo $soma,$sub,$mult,$divisao;
 echo gettype($soma);
 echo "A soma dos valores é $soma";
+
